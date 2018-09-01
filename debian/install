@@ -1,0 +1,4 @@
+manifest.ini /usr/share/gajim/plugins/url_image_preview/
+*.py /usr/share/gajim/plugins/url_image_preview/
+*.ui /usr/share/gajim/plugins/url_image_preview/
+*.png /usr/share/gajim/plugins/url_image_preview/

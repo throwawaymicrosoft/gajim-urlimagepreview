@@ -1,0 +1,64 @@
+gajim-urlimagepreview (2.2.2-1) unstable; urgency=medium
+
+  * New upstream version
+
+ -- W. Martin Borgert <debacle@debian.org>  Sat, 18 Aug 2018 23:39:41 +0000
+
+gajim-urlimagepreview (2.2.0-1) unstable; urgency=medium
+
+  * New upstream version
+  * Bump standards version
+
+ -- W. Martin Borgert <debacle@debian.org>  Thu, 10 May 2018 21:16:27 +0000
+
+gajim-urlimagepreview (2.1.7-1) unstable; urgency=medium
+
+  * New upstream version
+
+ -- W. Martin Borgert <debacle@debian.org>  Wed, 28 Mar 2018 22:30:58 +0000
+
+gajim-urlimagepreview (2.1.5-1) unstable; urgency=medium
+
+  * New upstream version
+  * Move packaging to Debian XMPP Maintainers, use salsa.debian.org
+  * Bump standards version
+
+ -- W. Martin Borgert <debacle@debian.org>  Tue, 30 Jan 2018 00:09:31 +0000
+
+gajim-urlimagepreview (2.1.2-1) unstable; urgency=medium
+
+  * New upstream version
+  * Minor updates in debian/
+
+ -- W. Martin Borgert <debacle@debian.org>  Sat, 16 Dec 2017 21:21:43 +0000
+
+gajim-urlimagepreview (1.0.1-1) unstable; urgency=medium
+
+  * New upstream version
+  * Bump standards and dh version, no changes
+
+ -- W. Martin Borgert <debacle@debian.org>  Sat, 30 Sep 2017 22:07:40 +0000
+
+gajim-urlimagepreview (1.0.0-1) unstable; urgency=medium
+
+  * New upstream version
+
+ -- W. Martin Borgert <debacle@debian.org>  Fri, 16 Jun 2017 22:54:39 +0000
+
+gajim-urlimagepreview (0.9.8-2) unstable; urgency=medium
+
+  * Add privacy warning. (Closes: #849537)
+
+ -- W. Martin Borgert <debacle@debian.org>  Fri, 20 Jan 2017 20:18:00 +0000
+
+gajim-urlimagepreview (0.9.8-1) unstable; urgency=medium
+
+  * New upstream version. (Closes: #841918)
+
+ -- W. Martin Borgert <debacle@debian.org>  Mon, 24 Oct 2016 20:10:21 +0000
+
+gajim-urlimagepreview (0.9.5-1) unstable; urgency=low
+
+  * Initial release. (Closes: #837616)
+
+ -- W. Martin Borgert <debacle@debian.org>  Mon, 12 Sep 2016 22:21:01 +0000

@@ -1,0 +1,10 @@
+4babfd4911e56651f0bd5e322f8cbbc9  usr/share/doc/gajim-urlimagepreview/changelog.Debian.gz
+0b292a4febf8d755d163ff3f3966a0c9  usr/share/doc/gajim-urlimagepreview/copyright
+18e15dbd12918fe5e86610d220335a26  usr/share/gajim/plugins/url_image_preview/__init__.py
+73e3b7386a7f64a3a80ad3e3bdf732ee  usr/share/gajim/plugins/url_image_preview/config_dialog.py
+079ffb395145000fb139afbd1a0614e2  usr/share/gajim/plugins/url_image_preview/context_menu.ui
+7519cf4c165044b636c0ff1523a6a02e  usr/share/gajim/plugins/url_image_preview/http_functions.py
+d8fb2171c78f27c12bd6471aa1a22a95  usr/share/gajim/plugins/url_image_preview/manifest.ini
+e9c51f1315e1613d820e6034e754f807  usr/share/gajim/plugins/url_image_preview/resize_gif.py
+ef0c605e37f2d499f00004691d89aedd  usr/share/gajim/plugins/url_image_preview/url_image_preview.png
+ab9962eab0760af82af9d0a3444969a2  usr/share/gajim/plugins/url_image_preview/url_image_preview.py

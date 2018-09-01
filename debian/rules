@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@ --with python3
+
+get-orig-source:
+	./debian/get-orig-source.sh url_image_preview

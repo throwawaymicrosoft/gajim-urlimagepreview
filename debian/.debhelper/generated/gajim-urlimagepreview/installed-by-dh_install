@@ -1,0 +1,8 @@
+./manifest.ini
+./__init__.py
+./config_dialog.py
+./http_functions.py
+./resize_gif.py
+./url_image_preview.py
+./context_menu.ui
+./url_image_preview.png
